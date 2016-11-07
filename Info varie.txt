@@ -1,0 +1,102 @@
+	
+	# TODO: 
+
+Mail di Barbara: 
+
+- Nuovi siti: codiceMessagio MS2J - estensione alle classi in base ai nuovi dati esposti da SEM
+- Register cambio owner: completare la tranche n°4 (5) (per la quale sono già stati effettuati i cambi  domini - executeChangeOwner()) rilasciando un nuovo register-cli che avvii la  updateOwnerDetailsPostChangeOwner(). 
+- Register creazione nuovo account per nuovi siti: nuovo account già creato Domain-NS
+- Vortal Home: completamento e verifica con SEM sull'implementazione per gestire i nuovi campi - vedi  mail "fake per PDO Vortal"
+
+
+-------
+
+
+WHOIS privacy - Registrazione dei domini per tutti TLD diversi da .it
+- Sui domini .it l'opzione viene gestita da 2 flag: getOwnConsForPub() e getAdmConsForPub(). 
+- Nel file Site.java sono presenti 2 variabili che identificano la proprietà ownConsForPub e admConsForPub sempre settate a 0.
+
+
+-------
+
+	Git experiments:
+
+	
+git config --global alias.<nome> <comando>
+git log --pretty=oneline
+
+Git blame [filename] chi ha modificato quel file nel tempo
+Git log -L :funzione:[nomeFile] modifiche alla funzione indicata nel tempo
+
+
+--------
+
+	Script IDB per SDS_MESSAGGI:
+	
+cd /home/script/SDS/IDB_BUNI/log/
+grep "Errore.*$1" sds-engine.log.2016-??-??
+
+
+
+
+
+
+
+
+
+
+Ciao, io sono: d6983
+------
+ALICE: 5hk951mltl3av07v47471k74
+SEATGUEST: -
+CESPIT: 525549
+------
+
+	# ------------ #
+	# STICKY NOTES #
+	# ------------ #
+
+
+bormioli rocco a Milano -> multisede
+de wan a Milano -> multisede
+-----------
+x- BusinessView (Veneri Adelino (VR))
+?- MyPoints (Ingro market - Italia)
+
+account: ucasalone@hotmail.com
+pwd: Umberto2.0
+
+------------------------------------------
+
+# Apache ##
+/etc/apache2/sites-available/m.paginegialle.it.conf
+sudo /etc/init.d/apache2 restart
+
+## Log ##
+/store/www/mobile-static.seat.it/log/mwrapper.log
+/store/log/apache2/m.paginebianche.it/error.log­
+/var/log/newpb.log
+/store/tomcat/mwrapper/logs/catalina.out
+------
+gulp deploy --env dev3 --user d6983 --pass spinx.886
+gulp deploy --env test --user mobile --pass m0b1l3!! --sprites
+sudo /etc/init.d/newpg restart
+------------------------------------------
+Firebase: droid.seatpg@gmail.com
+https://vivid-inferno-7636.firebaseio.com/
+---
+Dev1: - 
+Dev2: featurephone
+Dev3: -
+------
+- Prima NO cookie su CloudFront - Ora tutti abilitati
+- No headers HTTP passati tranne quelli autorizzati (nessuno)
+----
+
+
+
+<option title="INCREMENTO BDT" value="2007" invioemail="false" inserimtipo="false">INCREMENTO BDT</option>
+
+------
+
+SMS: 3487798766 - C.F.: 139780934
